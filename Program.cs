@@ -18,36 +18,36 @@ namespace OkulYonetimSistemi
         {
             //Öğrencileri oluşturma
             Person ogrenci1 = new Person();
-            ogrenci1.Ad = "Ali";
-            ogrenci1.Soyad = "Yılmaz";
+            ogrenci1.Ad = "Ciro";
+            ogrenci1.Soyad = "Immobile";
             ogrenci1.DogumTarihi = "01.01.2000";
             ogrenci1.Role = "Öğrenci";
 
             // Öğrenci2
             Person ogrenci2 = new Person();
-            ogrenci2.Ad = "Ayşe";
-            ogrenci2.Soyad = "Kara";
+            ogrenci2.Ad = "Ahmet Emre";
+            ogrenci2.Soyad = "Arı";
             ogrenci2.DogumTarihi = "01.01.2000";
             ogrenci2.Role = "Öğrenci";
 
             // Öğrenci3
             Person ogrenci3 = new Person();
-            ogrenci3.Ad = "Mehmet";
-            ogrenci3.Soyad = "Demir";
+            ogrenci3.Ad = "Behlül";
+            ogrenci3.Soyad = "Haznedar";
             ogrenci3.DogumTarihi = "01.01.2000";
             ogrenci3.Role = "Öğrenci";
 
             // Öğretmen1
             Person ogretmen1 = new Person();
-            ogretmen1.Ad = "Ahmet";
-            ogretmen1.Soyad = "Yılmaz";
+            ogretmen1.Ad = "Adnan";
+            ogretmen1.Soyad = "Ziyagil";
             ogretmen1.DogumTarihi = "01.01.1980";
             ogretmen1.Role = "Öğretmen";
 
             // Öğretmen2
             Person ogretmen2 = new Person();
-            ogretmen2.Ad = "Ayşe";
-            ogretmen2.Soyad = "Kara";
+            ogretmen2.Ad = "Firdevs";
+            ogretmen2.Soyad = "Yoreoglu";
             ogretmen2.DogumTarihi = "01.01.1980";
             ogretmen2.Role = "Öğretmen";
 
